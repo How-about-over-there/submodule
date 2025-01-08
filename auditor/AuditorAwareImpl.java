@@ -1,4 +1,4 @@
-package com.haot.coupon.submodule.auditor;
+package com.haot.user.submodule.auditor;
 
 import jakarta.servlet.http.HttpServletRequest;
 import java.util.Optional;

@@ -1,4 +1,4 @@
-package com.haot.coupon.submodule.auditor;
+package com.haot.user.submodule.auditor;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.EntityListeners;

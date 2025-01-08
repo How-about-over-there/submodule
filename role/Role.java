@@ -1,4 +1,4 @@
-package com.haot.coupon.submodule.role;
+package com.haot.user.submodule.role;
 
 import lombok.AllArgsConstructor;
 
