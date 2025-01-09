@@ -1,4 +1,4 @@
-package com.haot.user.submodule.auditor;
+package com.haot.submodule.auditor;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;

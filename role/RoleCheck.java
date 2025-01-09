@@ -1,4 +1,4 @@
-package com.haot.user.submodule.role;
+package com.haot.submodule.role;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

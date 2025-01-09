@@ -1,4 +1,4 @@
-package com.haot.user.submodule.role;
+package com.haot.submodule.role;
 
 import jakarta.servlet.http.HttpServletRequest;
 import java.util.Arrays;
